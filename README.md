@@ -1,2 +1,2 @@
 # fps_demo
-My first attempt at a raycaster in C++
+My first attempt at a FPS in C++
